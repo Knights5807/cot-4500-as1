@@ -2,7 +2,7 @@
 ''' 
 The purpose of this assingment is to do various calculations on a
 machine number using rounding and chopping, as well as using bisection
-and the newton raphson method. The requirements for this is "math".
+and the newton raphson method. The requirements for this is to import "math".
 ''' 
 pip install - requirements.txt
 ''' 
