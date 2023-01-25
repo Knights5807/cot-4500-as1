@@ -43,7 +43,7 @@ error = Question_1 - Question_3
 absolute_error = abs(error)
 relative_error = abs(error) / abs(Question_1)
 Question_4a = absolute_error
-Question_4b = round(relative_error, 5)
+Question_4b = relative_error
 
 # Computes minimum terms
 function = ((1 / (10 ** (-4)) ** (1 / 3)) - 1)
